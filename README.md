@@ -4,7 +4,7 @@
 
 **Hola como estan, soy Santiago, soy desarrollador desde hace 7 meses y el lenguaje que mas he usado y aprendido es JavaScript. Actualmente estoy en proceso de aprendizaje a más lenguajes como React y JAVA, ya que me interesó el desarrollo de videojuegos y aplicaciones.**
 
-                                                        Lenguajes aprendidos o por aprender
+                                                Lenguajes aprendidos o por aprender
 
 <table align="center" align-items="center">
   <tr>
