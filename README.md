@@ -1,4 +1,4 @@
-# 👋 Hola a todos soy Santiago
+# 👋 Sant Profile
 
 
 ### Soy un estudiante de secudaria, que le gusta mucho la programacion.
