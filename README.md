@@ -4,7 +4,7 @@
 
 **Hola como estan, soy Santiago, soy desarrollador desde hace 7 meses y el lenguaje que mas he usado y aprendido es JavaScript. Actualmente estoy en proceso de aprendizaje a más lenguajes como React y JAVA, ya que me interesó el desarrollo de videojuegos y aplicaciones.**
 
-                                                Lenguajes aprendidos o por aprender
+## Lenguajes aprendidos o por aprender
 
 <table align="center" align-items="center">
   <tr>
@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-                                                    Redes sociales para contactarme:
+## Redes sociales para contactarme:
 
 <table align="center" align-items="center">
   <tr>
@@ -65,5 +65,10 @@
     </td>
   </tr>
 </table>
+## Mis estadisticas
+                                                                 
+[![Sant-afk GitHub stats](https://github-readme-stats.vercel.app/api?username=stuyy&show_icons=true&layout=compact&theme=dark)](https://github.com/Sant-afk)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark)](https://github.com/Sant-afk)
 
                                   
