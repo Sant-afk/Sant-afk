@@ -67,8 +67,8 @@
 </table>
 ## Mis estadisticas
                                                                  
-[![Sant-afk GitHub stats](https://github-readme-stats.vercel.app/api?username=stuyy&show_icons=true&layout=compact&theme=dark)](https://github.com/Sant-afk)
+[![Sant-afk GitHub stats](https://github-readme-stats.vercel.app/api?username=Sant-afky&show_icons=true&layout=compact&theme=dark)](https://github.com/Sant-afk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark)](https://github.com/Sant-afk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-afk&layout=compact&theme=dark)](https://github.com/Sant-afk)
 
                                   
