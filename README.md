@@ -71,4 +71,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sant-afk&layout=compact&theme=dark)](https://github.com/Sant-afk)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/895419615516176425)](https://discord.com/users/895419615516176425)
+
                                   
